@@ -1,7 +1,7 @@
 # FinanceFriend
 A locally running python GUI tool to upload, edit, and visualize transactions. The tool uses keywords and google search requests to dynamically categorize financial transactions into categories: food, transportation, housing, entertainment, miscellaneous, and education.
 
-The project is a proof of concept, but nevertheless it's functional with a few bugs here and there. And the GUI isn't styled to be pretty - just functiona. Certainly an exploratory learning project.
+The project is a proof of concept, but nevertheless it's functional with a few bugs here and there. And the GUI isn't styled to be pretty - just functional. Certainly an exploratory learning project.
 
 ## What I Learned
 - Basic Python
